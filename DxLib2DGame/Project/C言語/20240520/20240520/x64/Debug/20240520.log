@@ -1,0 +1,10 @@
+﻿  20240520_Prac2_野口翔真.cpp
+D:\DxLib2DGame\Project\C言語\20240520\20240520_Prac2_野口翔真.cpp(39,35): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
+  D:\DxLib2DGame\Project\C言語\20240520\20240520_Prac2_野口翔真.cpp(39,35):
+  プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+  
+D:\DxLib2DGame\Project\C言語\20240520\20240520_Prac2_野口翔真.cpp(43,35): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
+  D:\DxLib2DGame\Project\C言語\20240520\20240520_Prac2_野口翔真.cpp(43,35):
+  プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+  
+  20240520.vcxproj -> D:\DxLib2DGame\Project\C言語\20240520\x64\Debug\20240520.exe

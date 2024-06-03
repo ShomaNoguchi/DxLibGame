@@ -1,0 +1,9 @@
+﻿  GameData.cpp
+  GameFunction.cpp
+D:\DxLib2DGame\Project\Project1 - コピー\GameData.cpp(20,68): error C2059: 構文エラー: ';'
+D:\DxLib2DGame\Project\Project1 - コピー\GameFunction.cpp(32,9): error C2065: 'alpha': 定義されていない識別子です。
+D:\DxLib2DGame\Project\Project1 - コピー\GameFunction.cpp(35,46): error C2065: 'alpha': 定義されていない識別子です。
+D:\DxLib2DGame\Project\Project1 - コピー\GameFunction.cpp(37,26): error C2065: 'STRAT_STRING_X': 定義されていない識別子です。
+D:\DxLib2DGame\Project\Project1 - コピー\GameFunction.cpp(37,42): error C2065: 'STRAT_STRING_Y': 定義されていない識別子です。
+  GameMain.cpp
+  コードを生成中...

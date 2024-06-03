@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\source\\repos\\Project4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{188D7264-009B-4D4C-805E-6D3D7E415433}|Project4.vcxproj|C:\\Users\\student\\source\\repos\\Project4\\20240422_Prac1_\u91CE\u53E3\u7FD4\u771F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{188D7264-009B-4D4C-805E-6D3D7E415433}|Project4.vcxproj|solutionrelative:20240422_Prac1_\u91CE\u53E3\u7FD4\u771F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188D7264-009B-4D4C-805E-6D3D7E415433}|Project4.vcxproj|C:\\Users\\student\\source\\repos\\Project4\\\u30BD\u30FC\u30B9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{188D7264-009B-4D4C-805E-6D3D7E415433}|Project4.vcxproj|solutionrelative:\u30BD\u30FC\u30B9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240422_Prac1_\u91CE\u53E3\u7FD4\u771F.cpp",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Project4\\20240422_Prac1_\u91CE\u53E3\u7FD4\u771F.cpp",
+              "RelativeDocumentMoniker": "20240422_Prac1_\u91CE\u53E3\u7FD4\u771F.cpp",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\Project4\\20240422_Prac1_\u91CE\u53E3\u7FD4\u771F.cpp",
+              "RelativeToolTip": "20240422_Prac1_\u91CE\u53E3\u7FD4\u771F.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-22T01:31:32.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u30BD\u30FC\u30B9.cpp",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\Project4\\\u30BD\u30FC\u30B9.cpp",
+              "RelativeDocumentMoniker": "\u30BD\u30FC\u30B9.cpp",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\Project4\\\u30BD\u30FC\u30B9.cpp",
+              "RelativeToolTip": "\u30BD\u30FC\u30B9.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-22T01:04:10.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

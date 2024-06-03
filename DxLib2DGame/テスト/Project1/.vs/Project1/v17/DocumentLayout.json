@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DxLib2DGame\\Project\\C\u8A00\u8A9E\\20240422_Prac1_\u91CE\u53E3\u7FD4\u771F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project1\\Project1\\\u81EA\u5DF1\u7D39\u4ECB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project1\\\u81EA\u5DF1\u7D39\u4ECB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240422_Prac1_\u91CE\u53E3\u7FD4\u771F.cpp",
+              "DocumentMoniker": "D:\\DxLib2DGame\\Project\\C\u8A00\u8A9E\\20240422_Prac1_\u91CE\u53E3\u7FD4\u771F.cpp",
+              "RelativeDocumentMoniker": "..\\DxLib2DGame\\Project\\C\u8A00\u8A9E\\20240422_Prac1_\u91CE\u53E3\u7FD4\u771F.cpp",
+              "ToolTip": "D:\\DxLib2DGame\\Project\\C\u8A00\u8A9E\\20240422_Prac1_\u91CE\u53E3\u7FD4\u771F.cpp",
+              "RelativeToolTip": "..\\DxLib2DGame\\Project\\C\u8A00\u8A9E\\20240422_Prac1_\u91CE\u53E3\u7FD4\u771F.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-06T08:47:56.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u81EA\u5DF1\u7D39\u4ECB.cpp",
+              "DocumentMoniker": "D:\\Project1\\Project1\\\u81EA\u5DF1\u7D39\u4ECB.cpp",
+              "RelativeDocumentMoniker": "Project1\\\u81EA\u5DF1\u7D39\u4ECB.cpp",
+              "ToolTip": "D:\\Project1\\Project1\\\u81EA\u5DF1\u7D39\u4ECB.cpp",
+              "RelativeToolTip": "Project1\\\u81EA\u5DF1\u7D39\u4ECB.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-06T08:37:40.773Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

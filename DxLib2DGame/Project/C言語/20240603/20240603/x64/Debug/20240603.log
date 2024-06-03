@@ -1,0 +1,2 @@
+﻿  20240603_Prac2_野口翔真.cpp
+D:\DxLib2DGame\Project\C言語\20240603\20240603_Prac2_野口翔真.cpp(14,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

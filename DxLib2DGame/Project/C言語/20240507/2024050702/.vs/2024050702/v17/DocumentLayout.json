@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DxLib2DGame\\Project\\C\u8A00\u8A9E\\20240507\\2024050702\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B60747-C387-4A17-95DB-B01A3ABA3333}|2024050702.vcxproj|D:\\DxLib2DGame\\Project\\C\u8A00\u8A9E\\20240507\\2024050702\\20240507_task_\u91CE\u53E3\u7FD4\u771F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8B60747-C387-4A17-95DB-B01A3ABA3333}|2024050702.vcxproj|solutionrelative:20240507_task_\u91CE\u53E3\u7FD4\u771F.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240507_task_\u91CE\u53E3\u7FD4\u771F.cpp",
+              "DocumentMoniker": "D:\\DxLib2DGame\\Project\\C\u8A00\u8A9E\\20240507\\2024050702\\20240507_task_\u91CE\u53E3\u7FD4\u771F.cpp",
+              "RelativeDocumentMoniker": "20240507_task_\u91CE\u53E3\u7FD4\u771F.cpp",
+              "ToolTip": "D:\\DxLib2DGame\\Project\\C\u8A00\u8A9E\\20240507\\2024050702\\20240507_task_\u91CE\u53E3\u7FD4\u771F.cpp",
+              "RelativeToolTip": "20240507_task_\u91CE\u53E3\u7FD4\u771F.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T05:00:41.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
